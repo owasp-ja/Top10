@@ -16,8 +16,8 @@ OWASP Top 10 は、開発者およびウェブアプリケーションセキュ�
 
 - [はじめに](0x00_2025-Introduction.md)
 - [OWASPについて](0x01_2025-About_OWASP.md)
-- [アプリケーションセキュリティリスクとは？](0x02_2025-What_are_Application_Security_Risks.md)
-- [現代的なアプリケーションセキュリティプログラムの構築](0x03_2025-Establishing_a_Modern_Application_Security_Program.md)
+- [アプリケーションセキュリティリスクとは](0x02_2025-What_are_Application_Security_Risks.md)
+- [モダンなアプリケーションセキュリティプログラムの構築](0x03_2025-Establishing_a_Modern_Application_Security_Program.md)
 
 ### トップ10:2025リスト
 
